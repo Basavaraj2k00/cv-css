@@ -1,0 +1,75 @@
+body {
+  margin: 0%;
+  text-align: center;
+  font-family: "Merriweather", serif;
+  background-color: #e4f9f5;
+}
+
+h1 {
+  margin-top: 0%;
+  font-family: "Sacramento", cursive;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  padding-top: 100px;
+  position: relative;
+}
+
+
+
+.chai
+{
+  border-radius: 50%;
+  width: 250px;
+}
+
+.skill-pic
+{
+  border-radius: 50%;
+  width: 250px;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 200px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 200px;
+  bottom: 300px;
+}
+
+
+
+.profile{
+    border-radius: 50%;
+    width: 150px;
+}
+
+
+.middle-container{
+  text-align: center;
+ 
+
+}
+
+
+.footer-link1
+{
+  src: url(contact/linkedin.png);
+}
