@@ -66,14 +66,13 @@
       <a class="footer-link" href="https://www.linkedin.com/in/yash-raj-22b744175/">LinkedIn</a>
       <a class="footer-link" href="https://twitter.com/Basavar43423774">Twitter</a>
     
-      <p class="copyright"></p>
+      <p class="copyright" id="year"></p>
     </div>
     
 <script>
 let date = new Date();
 let year = date.getFullYear();
-
-document.getElementsByClassName("copyright").inner html = `© ${year} Basavaraj `
+document.getElementById("year").innerHTML = `© ${year} Basavaraj `
     
 </script>
   </body>
